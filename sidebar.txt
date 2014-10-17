@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nut:home|Door43 (nut)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nut|d43-nut repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nut/archive/master.zip|d43-nut.zip]]
+
+**Recent Changes**
+{{changes>ns = nut}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nut|Ethnologue data]]
+
